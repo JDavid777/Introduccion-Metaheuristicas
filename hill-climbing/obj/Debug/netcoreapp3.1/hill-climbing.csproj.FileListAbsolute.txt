@@ -1,0 +1,13 @@
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/obj/Debug/netcoreapp3.1/hill-climbing.csprojAssemblyReference.cache
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/obj/Debug/netcoreapp3.1/hill-climbing.AssemblyInfoInputs.cache
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/obj/Debug/netcoreapp3.1/hill-climbing.AssemblyInfo.cs
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/obj/Debug/netcoreapp3.1/hill-climbing.csproj.CoreCompileInputs.cache
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/bin/Debug/netcoreapp3.1/hill-climbing
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/bin/Debug/netcoreapp3.1/hill-climbing.deps.json
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/bin/Debug/netcoreapp3.1/hill-climbing.runtimeconfig.json
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/bin/Debug/netcoreapp3.1/hill-climbing.runtimeconfig.dev.json
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/bin/Debug/netcoreapp3.1/hill-climbing.dll
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/bin/Debug/netcoreapp3.1/hill-climbing.pdb
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/obj/Debug/netcoreapp3.1/hill-climbing.dll
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/obj/Debug/netcoreapp3.1/hill-climbing.pdb
+/home/david/Projects/Introduccion-Metaheuristicas/hill-climbing/obj/Debug/netcoreapp3.1/hill-climbing.genruntimeconfig.cache
